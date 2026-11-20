@@ -1,0 +1,9 @@
+LABELS
+====================
+LOOP = 0
+CLEAR_LOOP = 12
+DRAW = 28
+DRAW_LOOP = 36
+
+VARIABLES
+====================
